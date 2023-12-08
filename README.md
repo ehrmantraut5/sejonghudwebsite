@@ -1,3 +1,0 @@
-#sejonghudwebiste repo
-
-- welcome!
