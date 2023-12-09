@@ -1,10 +1,6 @@
 ---
-title: features
+title: Features
 description: >-
-  We've built an amazing, fantastic team of developers, marketers, designers and
-  sales people.
+  We offer simple, intuitive features to enhance your campus life.
 ---
 
-<p>
-  weiojfiwjefweoijfweofjeiwf
-</p>
