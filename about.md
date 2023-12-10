@@ -27,3 +27,11 @@ Callendar is so small that we cannot observe our schedules directly.
 # Resolution
 
 ![resolution]({{ site.baseurl }}/images/resoltion1.png)
+
+  1.We shrinked the tile of subject name and professor name
+
+  2.We extended the callendar section to show students more comprehensive schedule at a glance
+
+![resolution2]({{ site.baseurl }}/images/resolution2.png)
+
+  3.When we click the subject tile, there is week tile which is splitted by midterm and final term
