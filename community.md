@@ -8,7 +8,7 @@ description: >-
 
 ## Code of Conduct
 
-sejonghud has adopted the Contributor Covenant [Code of Conduct.](https://github.com/ehrmantraut5/sejonghud)
+sejonghud has adopted the Contributor Covenant [Code of Conduct.](https://github.com/ehrmantraut5/sejonghud/blob/main/CODE_OF_CONDUCT.md)
 
 <br>
 
